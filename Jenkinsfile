@@ -16,3 +16,4 @@ pipeline{
           echo 'Clean Stage'
           }
       }
+    }
